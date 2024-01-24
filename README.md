@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jondata
-- 👀 I’m interested in data analysis, R, and public health.
-- 🌱 I’m currently learning longitudinal data analysis.
+- 👀 I’m interested in data analysis, R, ArcGIS, and public health.
 - 💞️ I’m looking to collaborate on analysis projects focused on International Public Health.
 
 
